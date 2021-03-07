@@ -1,10 +1,15 @@
 # Welcom to my CV
 
 **Name:** ALIAKSANDR VARONIN
+
 **Address:** 31 Pushkin street, apt. 212, Hrodna, Belarus.
+
 **Phone number:** +375(25)-960-85-81 
+
 **Marital status:** Single
+
 **Date of birth:** 9th January 1998
+
 **Email:** kizyakk33@mail.ru
 
 ## About me:
